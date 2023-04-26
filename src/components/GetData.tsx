@@ -22,15 +22,17 @@ export default function GetData() {
   }, []);
 
 
-  const getFrequencies = (key: string, sex?: string) => {
+  const getFrequencies = (key: string, sex?: string, bracket?: string, includeNaN?: boolean) => {
     const frequencies: {[key: string]: number} = {};
 
-    const newData = sex? data?.filter((each: any) => each.sex === sex): data
+    const withSex = sex? data?.filter((each: any) => each.sex === sex): data
 
-    newData?.forEach((match: any) => {
+    const withBracket = bracket? withSex?.filter((each: any) => each.bracket === bracket): withSex
+
+    withBracket?.forEach((match: any) => {
       const item = match[key];
       
-      if (item && item !== "NaN") { 
+      if (item && (includeNaN || item !== "NaN")) { 
         if (item in frequencies) {
           frequencies[item]++; 
         } else {
@@ -62,6 +64,32 @@ export default function GetData() {
 
   const subsF = getFrequencies("submission", "F");
 
+
+  const subsFM60 = getFrequencies("submission", "F", "- 60KG", true);
+
+  const subsMM60 = getFrequencies("submission", "M", "- 99 KG", true);
+
+
+  const getUniqueBrackets = () => {
+
+
+    const unique: any[] = []
+
+
+    data?.forEach((match: { bracket: string; sex: string }) => {
+      const { bracket, sex } = match;
+  
+      if (!unique.some(([existingBracket, existingSex]) => existingBracket === bracket && existingSex === sex)) {
+        unique.push([bracket, sex]);
+      }
+    });
+  
+    return unique;
+  }
+
+
+  
+
   return (
     <Box sx={{display: "flex", alignItems: "center", flexDirection: "column"}}>
 
@@ -82,6 +110,24 @@ export default function GetData() {
       <BarChart data={typeWin} chartName="Type Win:" />
 
       <BarChart data={matchDuration} chartName="Match Durations:" />
+
+
+      {/* {["M", "F"].map(sex => {
+        return ["- 60 KG", "+ 60 KG", "- 66KG", "- 77KG", "- 88 KG", "- 99 KG", "+ 99KG", "ABSOLUTE"].map(bracket => <BarChart data={getFrequencies("submission", sex, bracket, true)} chartName={sex + " " + bracket} />)
+      })} */}
+
+      <h2>Submissions by bracket:</h2>
+
+      {getUniqueBrackets().map((each) => {
+
+        const bracket = each[0]
+        const sex = each[1]
+       
+
+        return <BarChart data={getFrequencies("submission", sex, bracket, true)} chartName={sex + " " + bracket}/>
+      })}
+
+      
 
       
 
