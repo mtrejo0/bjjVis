@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/bjjVis/static/js/main.bb34d7fb.js",
+    "main.js": "/bjjVis/static/js/main.ffa920dc.js",
     "index.html": "/bjjVis/index.html",
-    "main.bb34d7fb.js.map": "/bjjVis/static/js/main.bb34d7fb.js.map"
+    "main.ffa920dc.js.map": "/bjjVis/static/js/main.ffa920dc.js.map"
   },
   "entrypoints": [
-    "static/js/main.bb34d7fb.js"
+    "static/js/main.ffa920dc.js"
   ]
 }
