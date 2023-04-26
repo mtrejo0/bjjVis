@@ -1,0 +1,113 @@
+match_id,bracket,sex,round,fighter_x,fighter_y,match_duration,winner,type_win,submission,score_x,score_y,total_score_sum,went_overtime
+1,- 66KG,M,round of 16,G.Tonon,S.McNally,10:00,S.McNally,SCORE,NaN,0,3,3,FALSE
+2,- 66KG ,M,round of 16,J.Cisneros,E.Crelinsten,13:44,J.Cisneros,SUB,Armbar,0,4,4,TRUE
+3,- 66KG ,M,round of 16,C.Abate,F.Andrey,15:00,F.Andrey,REF,NaN,0,0,0,TRUE
+4,- 66KG ,M,round of 16,D.Reis,A.Willians,10:00,D.Reis,SCORE,NaN,2,0,2,FALSE
+5,- 66KG ,M,round of 16,K.Maciel,G.Martinez,8:30,K.Maciel,SUB,RNC,3,0,3,FALSE
+6,- 66KG ,M,round of 16,K.Krikorian,D.Pato Oliveira,3:00,D.Pato Oliveira,SUB,Heel Hook,0,0,0,FALSE
+7,- 66KG ,M,round of 16,A.Agazarm,J.Skinner,15:00,J.Skinner,REF,NaN,0,0,0,TRUE
+8,- 66KG  ,M,round of 16,G.Sousa,R.Alvarenga,10:00,G.Sousa,SCORE,NaN,5,0,5,FALSE
+9,- 66KG  ,M,quarter,S.McNally,J.Cisneros,15:00,J.Cisneros,REF,NaN,0,0,0,TRUE
+10,- 66KG  ,M,quarter,F.Andrey,D.Reis,15:00,D.Reis,REF,NaN,0,0,0,TRUE
+11,- 66KG  ,M,quarter,K.Maciel,D.Pato Oliveira,7:51,D.Pato Oliveira,SUB,Leg Lock,0,0,0,FALSE
+12,- 66KG  ,M,quarter,J.Skinner,G.Sousa,5:39,G.Sousa,SUB,Mounted Triangle,0,0,0,FALSE
+13,- 66KG  ,M,semi,J.Cisneros,D.Reis,10:00,D.Reis,SCORE,NaN,0,2,2,FALSE
+14,- 66KG  ,M,semi,D.Pato Oliveira,G.Sousa,15:00,G.Sousa,REF,NaN,0,0,0,TRUE
+15,- 66KG  ,M,final,D.Reis,G.Sousa,20:00,D.Reis,SCORE,NaN,3,0,3,FALSE
+16,- 66KG  ,M,3rd place,J.Cisneros,D.Pato Oliveira,11:00,D.Pato Oliveira,SCORE,NaN,0,0,0,TRUE
+17,- 77KG  ,M,round of 16,J.Torres,K.Iwamoto,15:00,J.Torres,REF,NaN,0,0,0,TRUE
+18,- 77KG  ,M,round of 16,T.Langaker,P.Barch,10:00,P.Barch,SCORE,NaN,0,3,3,FALSE
+19,- 77KG  ,M,round of 16,K.Ruotolo,L.Giles,7:58,K.Ruotolo,SUB,Armbar,0,0,0,FALSE
+20,- 77KG  ,M,round of 16,R.Jimenez,A.Varela,4:57,R.Jimenez,SUB,RNC,0,0,0,FALSE
+21,- 77KG  ,M,round of 16,D.Leon,M.Hage,2:43,D.Leon,SUB,Armbar,0,0,0,FALSE
+22,- 77KG  ,M,round of 16,W.Tacket,M.Szczecinski,2:57,M.Szczecinski,SUB,Straight Ankle Lock,0,0,0,FALSE
+23,- 77KG  ,M,round of 16,M.Galvao,O.Taza,10:00,M.Galvao,SCORE,NaN,5,0,5,FALSE
+24,- 77KG  ,M,round of 16,N.Ryan,R.Canuto,10:00,R.Canuto,SCORE,NaN,0,5,5,FALSE
+25,- 77KG  ,M,quarter,J.Torres,P.Barch,10:00,P.Barch,SCORE,NaN,0,4,4,FALSE
+26,- 77KG  ,M,quarter,K.Ruotolo,R.Jimenez,1:53,K.Ruotolo,SUB,Heel Hook,0,0,0,FALSE
+27,- 77KG  ,M,quarter,D.Leon,M.Szczecinski,15:00,D.Leon,REF,NaN,0,0,0,TRUE
+28,- 77KG  ,M,quarter,M.Galvao,R.Canuto,1:59,M.Galvao,SUB,Armbar,0,0,0,FALSE
+29,- 77KG  ,M,semi,P.Barch,K.Ruotolo,8:24,K.Ruotolo,SUB,Armbar,0,0,0,FALSE
+30,- 77KG  ,M,semi,D.Leon,M.Galvao,15:00,M.Galvao,SCORE,NaN,0,2,2,TRUE
+31,- 77KG  ,M,final,K.Ruotolo,M.Galvao,11:51,K.Ruotolo,SUB,Heel Hook,0,0,0,FALSE
+32,- 77KG  ,M,3rd place,P.Barch,D.Leon,10:00,D.Leon,REF,NaN,0,0,0,FALSE
+33,- 88 KG  ,M,round of 16,M.Diniz,R.Frias,10:00,M.Diniz,SCORE,NaN,3,0,3,FALSE
+34,- 88 KG  ,M,round of 16,G.Bodoni,I.Bahiense,10:00,G.Bodoni,SCORE,NaN,6,0,6,FALSE
+35,- 88 KG  ,M,round of 16,X.Ribeiro,E.O'Flanagan,15:00,E.O'Flanagan,SCORE,NaN,0,3,3,TRUE
+36,- 88 KG  ,M,round of 16,M.Fowler,A.Robinho,6:37,M.Fowler,SUB,Guillotine,2,0,2,FALSE
+37,- 88 KG  ,M,round of 16,L.Hulk,S.Ilius,10:00,L.Hulk,SCORE,NaN,3,0,3,FALSE
+38,- 88 KG  ,M,round of 16,J.Hinger,T.Ruotolo,15:00,J.Hinger,SCORE,NaN,3,2,5,FALSE
+39,- 88 KG  ,M,round of 16,V.Rocha,I.Mitchell,15:00,V.Rocha,REF,NaN,0,0,0,TRUE
+40,- 88 KG  ,M,round of 16,P.Marinho,J.Rodriguez,10:00,P.Marinho,SCORE,NaN,3,2,5,FALSE
+41,- 88 KG  ,M,quarter,M.Diniz,G.Bodoni,9:10,G.Bodoni,SUB,Triangle,0,4,4,FALSE
+42,- 88 KG  ,M,quarter,E.O'Flanagan,M.Fowler,5:57,E.O'Flanagan,SUB,Heel Hook,0,0,0,FALSE
+43,- 88 KG  ,M,quarter,L.Hulk,J.Hinger,10:00,L.Hulk,SCORE,NaN,7,0,7,FALSE
+44,- 88 KG  ,M,quarter,V.Rocha,P.Marinho,15:00,V.Rocha,REF,NaN,0,0,0,TRUE
+45,- 88 KG  ,M,semi,G.Bodoni,E.O'Flanagan,2:18,G.Bodoni,SUB,Lins Lock,0,0,0,TRUE
+46,- 88 KG  ,M,semi,L.Hulk,V.Rocha,15:00,L.Hulk,REF,NaN,0,0,0,TRUE
+47,- 88 KG  ,M,final,G.Bodoni,L.Hulk,14:10,G.Bodoni,SUB,RNC,9,0,9,FALSE
+48,- 88 KG  ,M,3rd place,V.Rocha,E.O'Flanagan,10:00,V.Rocha,REF,NaN,0,0,0,FALSE
+49,- 99 KG  ,M,round of 16,K.Duarte,O.Livesey,10:00,K.Duarte,SCORE,NaN,8,0,8,FALSE
+50,- 99 KG  ,M,round of 16,P.Gaudio,E.Cruz,10:00,E.Cruz,REF,NaN,0,0,0,FALSE
+51,- 99 KG  ,M,round of 16,R.Lovato Jr,P.Tepponen,11:49,R.Lovato Jr,SUB,RNC,3,0,3,FALSE
+52,- 99 KG  ,M,round of 16,V.Trator,P.Ardila-Ibarra,10:00,V.Trator,SCORE,NaN,0,0,0,FALSE
+53,- 99 KG  ,M,round of 16,C.Jones,J.Costa,0:18,C.Jones,SUB,Shoulder Lock,0,0,0,FALSE
+54,- 99 KG  ,M,round of 16,D.Johson,K.Boehm,10:00,K.Boehm,REF,NaN,0,0,0,FALSE
+55,- 99 KG  ,M,round of 16,Y.Simoes,L.Griffith,15:00,Y.Simoes,REF,NaN,0,0,0,TRUE
+56,- 99 KG  ,M,round of 16,N.Meregali,H.Ceconi,4:35,N.Meregali,SUB,Kimura,0,0,0,FALSE
+57,- 99 KG  ,M,quarter,K.Duarte,E.Cruz,10:00,K.Duarte,SCORE,NaN,5,2,7,FALSE
+58,- 99 KG  ,M,quarter,R.Lovato Jr,V.Trator,10:00,R.Lovato Jr,SCORE,NaN,2,0,2,FALSE
+59,- 99 KG  ,M,quarter,C.Jones,K.Boehm,6.33,K.Boehm,SUB,Guillotine,0,0,0,FALSE
+60,- 99 KG  ,M,quarter,Y.Simoes,N.Meregali,15:00,N.Meregali,REF,NaN,0,0,0,TRUE
+61,- 99 KG  ,M,semi,K.Duarte,R.Lovato Jr,15:00,K.Duarte,REF,NaN,0,0,0,TRUE
+62,- 99 KG  ,M,semi,C.Jones,N.Meregali,15:00,C.Jones,REF,NaN,0,0,0,TRUE
+63,- 99 KG  ,M,final,K.Duarte,C.Jones,20:00,K.Duarte,SCORE,NaN,12,0,12,FALSE
+64,- 99 KG  ,M,3rd place,R.Lovato Jr,N.Meregali,6.00,N.Meregali,SCORE,NaN,0,0,0,
+65,+ 99KG,M,round of 16,G.Ryan,H.Jussila,5:49,G.Ryan,SUB,RNC,0,0,0,FALSE
+66,+ 99KG,M,round of 16,V.Hugo,D.Manasoiu,10:0,V.Hugo,SCORE,NaN,3,0,3,FALSE
+67,+ 99KG,M,round of 16,R.Cyborg,H.Rida,1:15,H.Rida,SUB,Armbar,0,0,0,FALSE
+68,+ 99KG,M,round of 16,J.Gabriel,R.Souza,6:25,R.Souza,SUB,Kneebar,0,0,0,FALSE
+69,+ 99KG,M,round of 16,F.Pena,J.Saunders,10:00,F.Pena,SCORE,NaN,8,0,8,FALSE
+70,+ 99KG,M,round of 16,O.Sanchez,M.Gimenis,8:16,M.Gimenis,SUB,Verbal Tap,0,2,2,FALSE
+71,+ 99KG,M,round of 16,N.Rodriguez,D.Ramos,10:00,N.Rodriguez,SCORE,NaN,8,0,8,FALSE
+72,+ 99KG,M,round of 16,V.Magalhaes,J.Hansen,3:19,J.Hansen,SUB,RNC,0,0,0,FALSE
+73,+ 99KG,M,quarter,G.Ryan,V.Hugo,10:00,G.Ryan,SCORE,NaN,8,0,8,FALSE
+74,+ 99KG,M,quarter,H.Rida,R.Souza,10:00,R.Souza,SCORE,NaN,0,2,2,FALSE
+75,+ 99KG,M,quarter,F.Pena,M.Gimenis,9:49,F.Pena,SUB,RNC,3,0,3,FALSE
+76,+ 99KG,M,quarter,N.Rodriguez,J.Hansen,7:54,N.Rodriguez,SUB,RNC,0,0,0,FALSE
+77,+ 99KG,M,semi,G.Ryan,R.Souza,0:11,G.Ryan,SUB,Heel Hook,0,0,0,FALSE
+78,+ 99KG,M,semi,F.Pena,N.Rodriguez,10:00,N.Rodriguez,SCORE,NaN,0,3,3,FALSE
+79,+ 99KG,M,final,G.Ryan,N.Rodriguez,2:15,G.Ryan,SUB,Heel Hook,0,0,0,FALSE
+80,+ 99KG,M,3rd place,R.Souza,F.Pena,NaN,R.Souza,FOR,NaN,NaN,NaN,NaN,FALSE
+81,- 60 KG,F,quarter,B.Basilio,J.Maele,6:18,B.Basilio,SUB,Choke,3,0,3,FALSE
+82,- 60 KG,F,quarter,E.Karppinen,B.Ste-Marie,10:00,B.Ste-Marie,SCORE,NaN,0,3,3,FALSE
+83,- 60 KG,F,quarter,F.Davies,A.Fornarino,7:10,F.Davies,SUB,	RNC,10,0,10,FALSE
+84,- 60 KG,F,quarter,B.Mesquita,M.Bastos,15:00,B.Mesquita,SCORE,NaN,3,0,3,TRUE
+85,- 60 KG,F,semi,B.Basilio,B.Ste-Marie,10:00,B.Ste-Marie,SCORE,NaN,0,4,4,FALSE
+86,- 60 KG,F,semi,B.Mesquita,F.Davies,10:00,F.Davies,SCORE,NaN,6,0,6,FALSE
+87,- 60 KG,F,final,B.Ste-Marie,F.Davies,20:00,F.Davies,SCORE,NaN,0,10,10,FALSE
+88,- 60 KG,F,3rd place,B.Basilio,B.Mesquita,3:32,B.Mesquita,SUB,Other,0,0,0,FALSE
+89,+ 60 KG,F,quarter,G.Garcia,N.Lloyd-Griffiths,9:35,G.Garcia,SUB,Armlock,6,0,6,FALSE
+90,+ 60 KG,F,quarter,A.Campo,E.Clay,10:00,A.Campo,SCORE,NaN,3,0,3,FALSE
+91,+ 60 KG,F,quarter,R.Guedes,E.Chrisdolou,15:00,R.Guedes,SCORE,NaN,3,0,3,FALSE
+92,+ 60 KG,F,quarter,K.Reusing,G.Jara,10:00,K.Reusing,SUB,Guillotine,5,0,5,FALSE
+93,+ 60 KG,F,semi,G.Garcia,A.Campo,10:00,A.Campo,SCORE,NaN,0,5,5,FALSE
+94,+ 60 KG,F,semi,R.Guedes,K.Reusing,NaN,R.Guedes,INJURY,NaN,0,0,0,FALSE
+95,+ 60 KG,F,final,A.Campo,R.Guedes,20:00,A.Campo,SCORE,NaN,3,2,5,FALSE
+96,+ 60 KG,F,3rd place,G.Garcia,K.Reusing,NaN,G.Garcia,FOR,NaN,0,0,0,FALSE
+97,ABSOLUTE,M,round of 16,N.Rodriguez,A.Varela,10:00,N.Rodriguez,SCORE,NaN,17,0,17,FALSE
+98,ABSOLUTE,M,round of 16,Y.Simoes,L.Giles,15:00,Y.Simoes,SCORE,NaN,0,0,0,TRUE
+99,ABSOLUTE,M,round of 16,R.Cyborg,E.Cruz,15:00,R.Cyborg,SCORE,NaN,3,0,3,TRUE
+100,ABSOLUTE,M,round of 16,V.Hugo,F.Andrey,8:34,V.Hugo,SUB,Choke,0,0,0,FALSE
+101,ABSOLUTE,M,round of 16,F.Pena,R.Jimenez,10:00,F.Pena,SCORE,NaN,13,2,15,FALSE
+102,ABSOLUTE,M,round of 16,P.Marinho,T.Ruotolo,8:48,T.Ruotolo,SUB,Choke,0,5,5,FALSE
+103,ABSOLUTE,M,round of 16,G.Bodoni,H.Rida,4:08,G.Bodoni,SUB,Armbar,0,0,0,FALSE
+104,ABSOLUTE,M,round of 16,N.Meregali,V.Trator,5:04,N.Meregali,INJURY,NaN,0,0,0,FALSE
+105,ABSOLUTE,M,quarter,R.Cyborg,V.Hugo,15:00,R.Cyborg,SCORE,NaN,2,0,2,TRUE
+106,ABSOLUTE,M,quarter,F.Pena,T.Ruotolo,10:00,F.Pena,SCORE,NaN,0,0,0,FALSE
+107,ABSOLUTE,M,quarter,N.Rodriguez,Y.Simoes,15:00,Y.Simoes,REF,NaN,0,0,0,TRUE
+108,ABSOLUTE,M,quarter,G.Bodoni,N.Meregali,10:00,N.Meregali,SCORE,NaN,6,2,8,FALSE
+109,ABSOLUTE,M,semi,Y.Simoes,R.Cyborg,15:00,Y.Simoes,SCORE,NaN,2,0,2,TRUE
+110,ABSOLUTE,M,semi,T.Ruotolo,N.Meregali,15:00,N.Meregali,REF,NaN,0,0,0,TRUE
+111,ABSOLUTE,M,final,Y.Simoes,N.Meregali,20:00,Y.Simoes,SCORE,NaN,0,0,0,FALSE
+112,ABSOLUTE,M,3rd place,R.Cyborg,T.Ruotolo,NaN,T.Ruotolo,FOR,NaN,0,0,0,FALSE
